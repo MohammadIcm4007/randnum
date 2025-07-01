@@ -1,6 +1,24 @@
 # Build
-*.log
 build
+
+#Editors and IDES
+*~
+.\#*
+#*#
+*.swp
+*.swo
+*.swn
+.*.swp
+.nano.*
+*.orig
+*.bak
+*.tmp
+*.temp
+*.backup
+/tmp/
+/temp/
+*.old
+*.save
 
 # Prerequisites
 *.d
