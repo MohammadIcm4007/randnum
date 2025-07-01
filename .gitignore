@@ -1,3 +1,7 @@
+# Build
+*.log
+build
+
 # Prerequisites
 *.d
 
